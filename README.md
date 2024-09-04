@@ -86,7 +86,7 @@ To install Prompt2Code, follow these steps:
    ```
 5. Start the Prompt2Code server:
    ```bash
-   python Prompt2Code.py
+   python devika.py
    ```
 6. if everything is working fine, you see the following output:
    ```bash
